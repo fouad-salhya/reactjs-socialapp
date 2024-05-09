@@ -1,0 +1,47 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 90px;
+    align-items: center;
+  
+    
+}
+
+ul#ul- {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+li#li-margin {
+    padding: 7px;
+    font-size: 16px;
+}
+
+
+li#li-margin:hover {
+    color: orange;
+}
+
+i#icon-user {
+    font-size: 50px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+i#icon-home {
+    font-size: 20px;
+    padding-left: 5px;
+}
+
+img#img-logo {
+    border-radius: 50%;
+    height: 70px;
+ 
+}
+a#navbar-brand {
+    font-size: 20px;
+}
